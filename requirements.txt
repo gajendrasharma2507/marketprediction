@@ -5,3 +5,11 @@ numpy
 yfinance
 pandas_ta
 scikit-learn
+streamlit
+pandas
+numpy
+yfinance
+plotly
+pandas_ta
+scikit-learn
+joblib
